@@ -1,4 +1,4 @@
-# Simple-Python-Projects
+# Quiz App and A Word Search Dictionary
 The File contains various Basic Python Projects 
 
 1. Prac.py - A word search dictionary 
