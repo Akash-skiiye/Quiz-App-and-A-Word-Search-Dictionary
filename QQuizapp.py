@@ -1,6 +1,6 @@
 from tkinter import *
 
-# Data
+# Data ( nothe that the data used here is very basic and irrelevant. you can use different data and store annswers )
 questions = ["What is the name of protagonist in Ramayan?",
              "Who killed Gandhiji?",
              "Mark Zuckerberg owns which company?",
